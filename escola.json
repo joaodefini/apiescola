@@ -1,0 +1,84 @@
+{
+  "disciplinas": [
+    {
+      "id": 201,
+      "nome": "Matemática",
+      "professor": "Prof. Carlos Souza",
+      "area_conhecimento": "Ciências Exatas",
+      "carga_horaria_semanal": 5,
+      "ementa": "Estudo de álgebra, geometria, trigonometria e funções matemáticas aplicadas ao cotidiano."
+    },
+    {
+      "id": 202,
+      "nome": "Física",
+      "professor": "Prof. Ricardo Lima",
+      "area_conhecimento": "Ciências da Natureza",
+      "carga_horaria_semanal": 4,
+      "ementa": "Leis fundamentais da mecânica, termodinâmica, eletricidade e óptica."
+    },
+    {
+      "id": 203,
+      "nome": "Química",
+      "professor": "Profa. Beatriz Nogueira",
+      "area_conhecimento": "Ciências da Natureza",
+      "carga_horaria_semanal": 4,
+      "ementa": "Estrutura da matéria, tabela periódica, ligações químicas e reações."
+    },
+    {
+      "id": 204,
+      "nome": "Biologia",
+      "professor": "Profa. Camila Torres",
+      "area_conhecimento": "Ciências da Natureza",
+      "carga_horaria_semanal": 4,
+      "ementa": "Estudo da célula, genética, ecologia, evolução e fisiologia humana."
+    },
+    {
+      "id": 205,
+      "nome": "Química Orgânica",
+      "professor": "Profa. Ana Mendes",
+      "area_conhecimento": "Ciências da Natureza",
+      "carga_horaria_semanal": 5,
+      "ementa": "Estudo das estruturas, propriedades e reações de compostos baseados em carbono, com foco em hidrocarbonetos e funções orgânicas."
+    },
+    {
+      "id": 206,
+      "nome": "História",
+      "professor": "Prof. João Almeida",
+      "area_conhecimento": "Ciências Humanas",
+      "carga_horaria_semanal": 3,
+      "ementa": "História do Brasil e do mundo, com foco em processos sociais, políticos e econômicos."
+    },
+    {
+      "id": 207,
+      "nome": "Geografia",
+      "professor": "Profa. Marina Costa",
+      "area_conhecimento": "Ciências Humanas",
+      "carga_horaria_semanal": 3,
+      "ementa": "Estudo do espaço geográfico, recursos naturais, globalização e questões ambientais."
+    },
+    {
+      "id": 208,
+      "nome": "Português",
+      "professor": "Profa. Luciana Ferreira",
+      "area_conhecimento": "Linguagens",
+      "carga_horaria_semanal": 5,
+      "ementa": "Leitura, interpretação, produção de textos e análise gramatical."
+    },
+    {
+      "id": 209,
+      "nome": "Inglês",
+      "professor": "Profa. Patrícia Ramos",
+      "area_conhecimento": "Linguagens",
+      "carga_horaria_semanal": 2,
+      "ementa": "Leitura e compreensão de textos em língua inglesa, vocabulário e estruturas básicas."
+    },
+    {
+      "id": 210,
+      "nome": "Educação Física",
+      "professor": "Prof. Felipe Andrade",
+      "area_conhecimento": "Linguagens",
+      "carga_horaria_semanal": 2,
+      "ementa": "Práticas esportivas, desenvolvimento motor, saúde e qualidade de vida."
+    }
+  ]
+}
